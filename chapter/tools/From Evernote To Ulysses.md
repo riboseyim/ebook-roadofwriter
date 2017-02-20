@@ -1,9 +1,3 @@
----
-title: Writing
-date: 2016-06-11 18:21:21
-tags: "自传"
----
-
 # 最佳写作实践－从Evernote到Ulysses
 
 >180天个人业余写作总结：从缘起、驱动力、工具链、成果影响等角度展开，全方位实录这段过程实践，发表出来对自己是一种鞭策，也希望能够为需要的朋友提供一些思考和帮助。
@@ -226,4 +220,4 @@ Economist:《欧洲难民危机》《沙特王国改革蓝图》《当代德国�
 
 <hr>
 更多精彩内容，请扫码关注公众号：@睿哥杂货铺  
-[RSS订阅 RiboseYim](https://riboseyim.github.io?product=ebook&id=linuxperfmaster)
+[RSS订阅 RiboseYim](https://riboseyim.github.io?product=ebook&id=roadofwriter)

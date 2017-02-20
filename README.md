@@ -14,7 +14,8 @@
 
 ### 特色章节
 
-* [Books of the Year 2016](chapter/books/2016.md)
+* [最佳写作实践－从Evernote到Ulysses](chapter/tools/From Evernote To Ulysses.md)
+* [最佳写作实践－思维利器OmniGraffle](chapter/tools/OmniGraffle.md)
 
 ## Community
 
