@@ -27,9 +27,7 @@ OmniGraffle可以支持流程图、逻辑图或者网页产品模型设计等，
 
 当然有人要说了，用PowerDesign甚至Excel也可以啊？  Re:是的。但你不觉得这样的图简约明了，用着很爽嘛？还可以直接贴到PPT呢，生活如此乏味，能让工作更有趣，也是保持和提高生产力啊！
 
-
-数据流示例
-
+![数据流示例](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-9.png)
 
 ##（三）业务流
 
@@ -40,27 +38,24 @@ OmniGraffle可以支持流程图、逻辑图或者网页产品模型设计等，
 
 所谓纲举目张，确定框架以后就可以集中精力各个击破了。
 
+![概要总图](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-10.png)
 
-概要总图
 第二步：针对不同子流程各个击破
 
+![子流程1](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-14.png)
+
+![子流程2](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-13.png)
 
 
-子流程1
-
-
-
-子流程2
 第三步：不仅仅是几个框
+
 完成第二步之后，传统语境下的流程图就完成了。但是，作为一个有追求的演员，似乎还可以尝试点什么。
 
 突然，一道灵光撞击出来新的想法。事不宜迟，马上记下来。拖几个元素，插入表格、贴上截图，简单的概要原型页就出来了。
 
 借用IOS风格的搜索栏，把个网页原型整得颇有大写意风格，真是神来之笔！哈哈
 
-
-概要原型图
-
+![概要原型图](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-11.png)
 
 ##（四）文档归集
 
@@ -72,13 +67,11 @@ OmniGraffle可以支持流程图、逻辑图或者网页产品模型设计等，
 
 基于OmniGraffle良好的兼容特性，完全可以将关键文档整合到一个Graffle文件，不但可以为当前进行的工作中保持迭代、保护成果，还能持续收拢、归纳、索引关键信息，为后续的改进优化打下好的基础。
 
+![文档树](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-3.png)
 
-文档树
+![开局索引](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-6.png)
 
-
-
-开局索引
-跳转特性支持的动作
+![跳转特性支持的动作](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-7.png)
 
 切换版面、显示／隐藏图层、高亮、运行脚本、打开文件等等
 
@@ -94,7 +87,8 @@ OmniGraffle可以支持流程图、逻辑图或者网页产品模型设计等，
 
 Graffle和Visio一样，提供了扩展资源库的支持，想要什么组件，搜一搜就有了。
 
-检索扩展资源库
+![检索扩展资源库](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-8.png)
+
 然而很多时候，我们面临问题不是缺少资源，而是资源太多，无法快速作出选择。
  正如制造工厂里的模具，码农的代码库，有逼格的人一定受不了拖个按钮都得搜索、调色半天。Graffle自带的资源、以前设计的组件、搜罗来的图片/PPT/Visio资源，日常工作中新发明的兵器，最好分门别类放到一个专门的版面。
 
@@ -104,24 +98,17 @@ Graffle和Visio一样，提供了扩展资源库的支持，想要什么组件�
 
 Anyway,殊途同归，我们这种智商低的就用努力弥补吧，哈哈！
 
-
-develop Own Style
-
+![develop Own Style](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-8.png)
 
 ##（六）技术资产保护
-
-
 
 从Visio迁移
 
 可以直接打开MS Visio文件,并在此基础上继续编辑。这个特性对于准备从Windows平台迁移过来的用户来说至关重要。
+![打开Visio文件](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-1.png)
 
-
-打开Visio文件
 从其它工具迁移（Axure/Image/截图）
-
-
-从Axure迁移
+![从Axure迁移](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-2.png)
 
 
 ##（七）自动布局
@@ -135,9 +122,11 @@ OmniGraffle新建文件的初始设置默认是自动布局的。
 
 好吧，我承认，因为这个坑爹的原因。我大概几个月的时间不知道怎么用这玩意，差点放弃！！
 
-坑爹的自动布局，一定要拉到最下面啊！
+![自动布局-误区](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-8.png)
+
 适用场景
 虽然开始在自动布局上踩了坑，但是这招在某些情况下还是非常有用的，例如下面这个，不是美术系的怎么可能画这么圆?  还是那句话，特性很多，都有适用范围，合适就好。
+![自动布局-适用场景](http://o8m8ngokc.bkt.clouddn.com/Tools-Mac-OmniGraffle-16.png)
 
 <hr>
 更多精彩内容，请扫码关注公众号：@睿哥杂货铺  
