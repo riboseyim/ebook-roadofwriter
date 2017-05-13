@@ -1,6 +1,6 @@
 # The Road of Writer
 
-## 翻译／整理：[RiboseYim](https://riboseyim.github.io)
+## Author：[RiboseYim](https://riboseyim.github.io)
 
 >工程师、开源粉、深度阅读患者。
 高效运维社区2016年度金牌作者
@@ -24,9 +24,7 @@
 **小密圈：**
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_rui_small.png)
 
-
-
-### VERSION 1.0.1-201702
+### Latest Version
 
 https://www.gitbook.com/book/riboseyim/ebook-roadofwriter/details
 
